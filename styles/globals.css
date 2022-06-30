@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  ul li a {
+    font-family: 'Roboto Mono', monospace;
+  }
+}
+
+.a_tagi{
+  /* ul li a */
+  @apply transition duration-200
+    text-2xl
+    block m-2
+    text-center
+}
+
+.a_tagi:hover {
+  @apply hover:text-infinitiveColor;
+}

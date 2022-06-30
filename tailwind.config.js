@@ -12,6 +12,7 @@ module.exports = {
       '2xl': '1536px',
     },
     colors: ({ colors }) => ({
+      infinitiveColor: 'firebrick',
       inherit: colors.inherit,
       current: colors.current,
       transparent: colors.transparent,
@@ -632,6 +633,7 @@ module.exports = {
       '2xl': '42rem',
       '3xl': '48rem',
       '4xl': '56rem',
+      '4.5xl': '60rem', // Ben ekledim
       '5xl': '64rem',
       '6xl': '72rem',
       '7xl': '80rem',
@@ -950,5 +952,5 @@ module.exports = {
     'active',
     'disabled',
   ],
-  plugins: [],
+  plugins: [require('@tailwindcss/typography')],
 }
