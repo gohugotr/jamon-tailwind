@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+[Next.js Github Pages](https://gregrickaby.blog/2020/03/21/next-js-github-pages)
+
 ## Kaynak
+
 [Tailwind Talk: Rebuilding Jamon's homepage with Tailwind CSS](https://www.youtube.com/watch?v=PUYvTrQTm2M&list=PL5f_mz_zU5eWrA5SARN0ySCIxu8jiWSri)
 
 `yarn tailwindcss init --full -p` ==> Tailwind.config'i **tüm** ayarlarıyla yükler.

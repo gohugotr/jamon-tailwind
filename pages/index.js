@@ -38,9 +38,7 @@ const Home = () => {
           />
         </div>
         <div className='mx-auto my-16 prose lg:prose-lg xl:prose-xl'>
-          <h2 className='mb-4 text-3xl font-semibold '>
-            I've loved software for a very long time.
-          </h2>
+          <h2 className='mb-4 text-3xl font-semibold '>Ive loved software for a very long time.</h2>
           <p>
             When my dad brought home a 286 in 1991, I was enthralled. I watched as he painstakingly
             typed and simultaneously repeated <code>cd backslash games enter</code> and saw the
@@ -60,7 +58,7 @@ const Home = () => {
           </p>
 
           <p>
-            Read more about it in{' '}
+            Read more about it in
             <Link href='/beginnings'>
               <a>Beginnings</a>
             </Link>
@@ -70,7 +68,7 @@ const Home = () => {
           <hr />
 
           <p>
-            I’m Jamon Holmgren, a software developer, business owner, husband, and father of four,
+            I am Jamon Holmgren, a software developer, business owner, husband, and father of four,
             located near Portland, Oregon, in SW Washington state.
           </p>
           <p>
@@ -79,7 +77,7 @@ const Home = () => {
           </p>
           <p>
             Feel free to shoot me an email at{' '}
-            <a href='mailto:jamonholmgren@gmail.com'>jamonholmgren@gmail.com</a>. If it's
+            <a href='mailto:jamonholmgren@gmail.com'>jamonholmgren@gmail.com</a>. If itπs
             work-related, use <a href='mailto:jamon@infinite.red'>jamon@infinite.red</a>.
           </p>
 
@@ -87,7 +85,7 @@ const Home = () => {
 
           <ul>
             <li>
-              Check out our new custom pool deck:{' '}
+              Check out our new custom pool deck:
               <Link href='/pool-deck'>
                 <a>Our Custom Pool Deck</a>
               </Link>
@@ -121,7 +119,7 @@ const Home = () => {
           <hr />
 
           <p>
-            P.S. I built this website in <a href='https://nextjs.org'>Next.js</a> and I've had a
+            P.S. I built this website in <a href='https://nextjs.org'>Next.js</a> and I have had a
             great experience with it.
             <a href='https://twitter.com/jamonholmgren/status/1065447628966514688'>Upgrading</a> is
             super easy. This website is
